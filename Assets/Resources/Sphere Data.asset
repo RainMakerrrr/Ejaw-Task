@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc457adc5e448eba63b1d5bbc698722, type: 3}
+  m_Name: Sphere Data
+  m_EditorClassIdentifier: 
+  _minClicksCount: 0
+  _maxClicksCount: 12
+  _setupColors:
+  - {r: 0.12451624, g: 0.5251723, b: 0.78941405, a: 1}
+  - {r: 0.8569081, g: 0.19325626, b: 0.45051363, a: 1}
+  - {r: 0.3480241, g: 0.8394495, b: 0.9921851, a: 1}
+  - {r: 0.039099194, g: 0.09776803, b: 0.20261458, a: 1}
+  - {r: 0.4233108, g: 0.57586104, b: 0.32791445, a: 1}
+  - {r: 0.33196285, g: 0.5095709, b: 0.14964695, a: 1}
+  - {r: 0.7363275, g: 0.8302072, b: 0.8830159, a: 1}
+  - {r: 0.7862349, g: 0.41193512, b: 0.8242451, a: 1}
+  - {r: 0.69773495, g: 0.044384398, b: 0.71969897, a: 1}
+  - {r: 0.8640449, g: 0.46062908, b: 0.44945645, a: 1}
+  - {r: 0.58089286, g: 0.36402175, b: 0.52725184, a: 1}
+  - {r: 0.10445817, g: 0.115322605, b: 0.08149852, a: 1}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc457adc5e448eba63b1d5bbc698722, type: 3}
+  m_Name: Capsule Data
+  m_EditorClassIdentifier: 
+  _minClicksCount: 0
+  _maxClicksCount: 10
+  _setupColors:
+  - {r: 0.8358079, g: 0.23812567, b: 0.72474456, a: 1}
+  - {r: 0.61984944, g: 0.16751651, b: 0.82185817, a: 1}
+  - {r: 0.75379205, g: 0.3209441, b: 0.64816517, a: 1}
+  - {r: 0.34411624, g: 0.22073694, b: 0.22302137, a: 1}
+  - {r: 0.013421, g: 0.024556102, b: 0.0500331, a: 1}
+  - {r: 0.82021034, g: 0.78115267, b: 0.6419253, a: 1}
+  - {r: 0.33939973, g: 0.8243599, b: 0.7539727, a: 1}
+  - {r: 0.6509729, g: 0.52286255, b: 0.37643299, a: 1}
+  - {r: 0.25044444, g: 0.26324216, b: 0.23031536, a: 1}
+  - {r: 0.69642705, g: 0.31854367, b: 0.18527697, a: 1}
